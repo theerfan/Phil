@@ -14,3 +14,4 @@
 - [ ] [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf).
 - [ ] [The Role of Occam's Razor in Knowledge Discovery](https://homes.cs.washington.edu/~pedrod/papers/dmkd99.pdf).
 - [ ] [Philosophical Applications of Computational Learning Theory](https://homepages.cwi.nl/~rdewolf/publ/philosophy/phthesis.pdf).
+- [ ] [Still Alive](https://astralcodexten.substack.com/p/still-alive).
