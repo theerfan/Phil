@@ -9,6 +9,7 @@
 
 
 ## Papers
+- [x] [Higher-order truths about chmess](https://web.ics.purdue.edu/~drkelly/DCDChmess2006.pdf).
 - [ ] [Are You Living In A Computer Simulation?](https://www.simulation-argument.com/simulation.pdf).
 - [ ] [Does a Rock Implement Every Finite-State Automaton?](http://consc.net/papers/rock.html).
 - [ ] [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf).
